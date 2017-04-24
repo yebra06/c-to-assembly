@@ -4,7 +4,7 @@ BAD_PATTERNS = '(' + ')|('.join((
 )) + ')'
 
 C_FILE = 'cfile_example.c'
-S_FILE = 'asm_main.asm'
+S_FILE = 'asm_main.s'
 
 COMPILER = 'gcc'
 SYNTAX = 'intel'

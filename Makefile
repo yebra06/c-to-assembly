@@ -4,4 +4,4 @@ all:
 
 clean:
 	@echo 'Removing assembly files.'
-	rm *.asm
+	rm *.s
