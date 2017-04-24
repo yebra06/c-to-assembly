@@ -1,11 +1,10 @@
-BAD_PATTERNS = (
+BAD_PATTERNS = '(' + ')|('.join((
 	'^.cfi|^.comm|^.local|^#|^.subsections',
 	'^.macosx',
-)
+)) + ')'
 
-C_FILENAME = 'cfile_example.c'
-S_FILENAME = 'asm_main.asm'
+C_FILE = 'cfile_example.c'
+S_FILE = 'asm_main.asm'
 
 COMPILER = 'gcc'
 SYNTAX = 'intel'
-
