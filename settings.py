@@ -3,7 +3,7 @@ BAD_PATTERNS = (
 	'^.macosx',
 )
 
-C_FILENAME = 'main.c'
+C_FILENAME = 'cfile_example.c'
 S_FILENAME = 'asm_main.asm'
 
 COMPILER = 'gcc'
