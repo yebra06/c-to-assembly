@@ -12,4 +12,4 @@ Use text editor to view assembly file.
 $ vim asm_main.asm
 ```
 
-Update example_cfile.c and/or settings.py for a different c file and generate new assembly files.
+Update `cfile_example.c` and/or `settings.py` for a different c file and generate new assembly files.
