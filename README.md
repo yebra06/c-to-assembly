@@ -1,10 +1,10 @@
 # c-to-assembly
 Dump C code into machine generated assembly.
 
-# Development
+## Development
 This program was developed on Linux Ubuntu 16.04
 
-# Instructions
+## Instructions
 Generate assembly file.
 ```bash
 $ make
