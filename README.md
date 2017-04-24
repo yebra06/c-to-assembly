@@ -1,5 +1,5 @@
-# nasm-dumper
-Dump C code into NASM Assembler.
+# c-to-assembly
+Dump C code into machine generated assembly.
 
 # Instructions
 Generate assembly file.
@@ -9,7 +9,7 @@ $ make
 
 Use text editor to view assembly file.
 ```bash
-$ vim asm_main.asm
+$ vim asm_main.s
 ```
 
 Nuke generated assembly files.
