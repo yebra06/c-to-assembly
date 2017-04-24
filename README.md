@@ -1,6 +1,9 @@
 # c-to-assembly
 Dump C code into machine generated assembly.
 
+# Development
+This program was developed on Linux Ubuntu 16.04
+
 # Instructions
 Generate assembly file.
 ```bash
